@@ -54,9 +54,7 @@ This project models a scenario where your position is fixed, the enemy location 
 
 ---
 
-## ⚙️ How to Run
-
-> ⚠ Note: Python 3 environment is required along with `cryptography` and `numpy`.
+## ⚙ How to Run
 
 ### Step 1: Install dependencies
 pip install cryptography numpy
