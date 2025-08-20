@@ -5,11 +5,17 @@ A physics-driven artillery targeting simulator with encrypted coordinate sharing
 project/
 │
 ├── myCalculation.ipynb # Your projectile calculations
+
 ├── friendsCalculation.ipynb # Friend's calculations on decrypted coords
+
 ├── encryptor.ipynb / encryptor.py
+
 ├── decryptor.ipynb / decryptor.py
+
 ├── key_manager.py # Script to generate secret.key
+
 ├── enemy_encrypted.json # Encrypted data file
+
 └── README.md
 
 #### Secure Target Finder & Coordinate Sharing System
